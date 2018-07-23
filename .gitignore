@@ -1,4 +1,5 @@
 node_modules/
+public/dist/
 1-startup.txt
 2-jsx.txt
 3-component.txt
